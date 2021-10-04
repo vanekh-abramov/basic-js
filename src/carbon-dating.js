@@ -18,9 +18,5 @@ const HALF_LIFE_PERIOD = 5730;
  *
  */
 export default function dateSample(sampleActivity) {
-  if (Number(sampleActivity)){
-    
-  } else {
     return false
-  }
 }
